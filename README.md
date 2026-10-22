@@ -44,8 +44,8 @@
       <a href="https://youtu.be/b-czM_ky71c"><img src="https://img.youtube.com/vi/b-czM_ky71c/hqdefault.jpg" alt="I2P (I) Final Project demo"></a>
     </td>
     <td>
-      <b>I2P (I) Final Project</b><br>
-      <i>"Totally just a normal game :)"</i><br><br>
+      <b>Slime Slayer</b><br>
+      <i>I2P (I) Final Project: "Totally just a normal game :)"</i><br><br>
       A game written in C for Introduction to Programming I.<br>
       The code is lost but the demo lives on. ▶️ <a href="https://youtu.be/b-czM_ky71c">Watch it</a>
     </td>
