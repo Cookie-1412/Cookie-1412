@@ -16,6 +16,12 @@ I build AI side projects in Python. Lately that means game-playing engines that 
 |---|---|---|
 | [**Travelling with Flutter**](https://github.com/Fincarson/Travelling_with_Flutter) | Cross-platform travel planner with shared itineraries, group chat, maps and AI help | Flutter · Dart · Firebase |
 
+### Course projects
+
+**I2P (I) Final Project: "Totally just a normal game :)"**. A game written in C for Introduction to Programming I. The code is lost but the demo lives on:
+
+[![I2P (I) Final Project demo](https://img.youtube.com/vi/b-czM_ky71c/hqdefault.jpg)](https://youtu.be/b-czM_ky71c)
+
 ### Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -23,4 +29,5 @@ I build AI side projects in Python. Lately that means game-playing engines that 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
