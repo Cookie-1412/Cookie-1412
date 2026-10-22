@@ -1,12 +1,69 @@
+ <!--
+  Sunset / Deep Space — profile README
+-->
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Albert Jonathan · AI · Game engines · Self-play" width="100%">
+  <img src="assets/banner.svg" alt="Albert Jonathan — AI, game engines, and self-play" width="100%">
 </p>
 
 <p align="center">
-  <b>Hi, I'm Albert 🌅</b><br>
-  I build AI side projects in Python. Lately that means game engines that teach themselves through self-play<br>
-  and local tools that run models on my own GPU.
+  <em>Building things that learn, play, and run locally.</em>
+  <br>
+  Python · AI experiments · Game engines · Local ML
 </p>
+
+<p align="center">
+  <a href="https://github.com/Cookie-1412?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-ff8a3c?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
+
+## ✦ About me
+
+Hey, I'm **Albert**. I'm interested in AI projects that are fun to build and interesting to understand — especially game-playing agents, self-play training, and tools that run on local hardware.
+
+- 🧠 Exploring self-play and neural networks through game AI.
+- 🛠️ Building practical tools with Python and local ML workflows.
+- 🎮 Interested in the overlap between AI, games, and systems.
+
+## ☄️ Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Cookie-1412/connect4-ai">Connect 4 AI</a></h3>
+      <p>A Connect 4 engine that trains a CNN value network through generations of self-play.</p>
+      <p><sub>Python · PyTorch</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Cookie-1412/chess-ai">Chess AI</a></h3>
+      <p>A 5×5 minichess engine with a minimax AI and a parallel self-play data pipeline.</p>
+      <p><sub>Python · Game search</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Cookie-1412/SongSplitter">SongSplitter</a></h3>
+      <p>A local web app that separates songs into vocals, drums, bass, and other stems using Demucs.</p>
+      <p><sub>Python · FastAPI · PyTorch</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Fincarson/Travelling_with_Flutter">Travelling with Flutter</a></h3>
+      <p>A team-built travel planner with shared itineraries, group chat, maps, and AI assistance.</p>
+      <p><sub>Flutter · Dart · Firebase</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
+
+## 🪐 Tech orbit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FF9A3C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -18,44 +75,36 @@
   <img src="https://img.shields.io/badge/Jupyter-4A0E9E?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-<img src="assets/divider.svg" width="100%">
-
-### 🔆 Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**connect4-ai**](https://github.com/Cookie-1412/connect4-ai) | Connect 4 engine that trains a CNN value network through generations of self-play | Python · PyTorch |
-| [**chess-ai**](https://github.com/Cookie-1412/chess-ai) | 5×5 minichess engine with a minimax AI and a parallel self-play data pipeline | Python |
-| [**SongSplitter**](https://github.com/Cookie-1412/SongSplitter) | Local web app that splits any song into vocals, drums, bass and more with Demucs | Python · FastAPI · PyTorch |
-
-### 🤝 Team projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Travelling with Flutter**](https://github.com/Fincarson/Travelling_with_Flutter) | Cross-platform travel planner with shared itineraries, group chat, maps and AI help | Flutter · Dart · Firebase |
-
-<img src="assets/divider.svg" width="100%">
-
-### 🎮 Course projects
-
-<table>
-  <tr>
-    <td width="45%">
-      <a href="https://youtu.be/b-czM_ky71c"><img src="https://img.youtube.com/vi/b-czM_ky71c/hqdefault.jpg" alt="I2P (I) Final Project demo"></a>
-    </td>
-    <td>
-      <b>Slime Slayer</b><br>
-      <i>I2P (I) Final Project: "Totally just a normal game :)"</i><br><br>
-      A game written in C for Introduction to Programming I.<br>
-      The code is lost but the demo lives on. ▶️ <a href="https://youtu.be/b-czM_ky71c">Watch it</a>
-    </td>
-  </tr>
-</table>
-
-### 💼 Experience
-
-**Intern · PT. Etika Darmakonserens** · Surabaya · Jul – Aug 2025 · [certificate](https://github.com/Cookie-1412/Internship-certificates)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cookie-1412&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff9a3c&icon_color=c084fc&text_color=c9d1d9" height="155" alt="GitHub profile statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cookie-1412&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff9a3c&text_color=c9d1d9" height="155" alt="Most used programming languages">
+</p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="" width="100%">
+  <img src="assets/divider.svg" width="100%" alt="">
+</p>
+
+## 🎮 From the archives
+
+**Slime Slayer** — a C game made for my Introduction to Programming I final project, with the subtitle *“Totally just a normal game :)”*.
+
+<p align="center">
+  <a href="https://youtu.be/b-czM_ky71c">
+    <img src="https://img.youtube.com/vi/b-czM_ky71c/hqdefault.jpg" alt="Watch the Slime Slayer demo" width="70%">
+  </a>
+  <br>
+  <a href="https://youtu.be/b-czM_ky71c">▶ Watch the demo</a>
+</p>
+
+## 💼 Experience
+
+**Intern · PT. Etika Darmakonserens**  
+Surabaya · July–August 2025 · [Internship certificate](https://github.com/Cookie-1412/Internship-certificates)
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Sunset over a deep-space horizon" width="100%">
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by. See you somewhere among the stars ✦</sub>
 </p>
